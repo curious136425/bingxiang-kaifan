@@ -1,0 +1,27 @@
+node_modules/
+dist/
+work/
+.vite/
+coverage/
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+
+# Android build outputs and local configuration
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/app/src/main/assets/public/
+android/app/src/main/assets/capacitor.config.json
+android/app/src/main/assets/capacitor.plugins.json
+android/app/src/main/res/xml/config.xml
+*.apk
+*.aab
+*.jks
+*.keystore
+
